@@ -24,7 +24,7 @@ stv = 4
 pls = [0, 0, 1, 0, 0]
 
 # TODO: then create a list of 6 pulses, called x, to use for input
-x = 6*pls
+x = 79*pls
 
 v = stv # Set connection weight to start weight value
 
